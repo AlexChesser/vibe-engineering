@@ -10,8 +10,8 @@ Let’s give that intent a name: Vibe Engineering.
 
 This paradigm shift isn’t just about technical proficiency; it’s about
 a fundamental redefinition of roles and responsibilities. Drawing from
-Peter Drucker’s insights over half a century ago in The Effective
-Executive, effective leadership focuses not on making all the right
+Peter Drucker’s insights over half a century ago in [The Effective
+Executive](https://www.goodreads.com/book/show/48019.The_Effective_Executive), effective leadership focuses not on making all the right
 decisions themselves, but on equipping knowledge workers with the
 information needed to make sound decisions.
 
@@ -79,7 +79,7 @@ communication, framing, and iteration as real engineering artifacts.
 Vibe Engineering emphasizes living context — prompts, conversations,
 embedded examples, and iterative demonstrations that evolve alongside
 the code. And like code, they belong in version control. As the authors
-of Software Engineering at Google put it “Documentation must be as
+of [Software Engineering at Google](https://abseil.io/resources/swe-book/html/ch10.html) put it “Documentation must be as
 close to the code as possible. It must be easy to maintain, easy to
 keep up to date, and easy to find.”
 

@@ -22,8 +22,8 @@ changes ripple in unexpected ways.
 It’s hard to imagine placing your trust in an AI agent that writes code
 based on probabilities rather than principles.
 
-Stories like this one — where an AI agent deleted a production
-database — or this one, where a model apologized for catastrophic
+Stories like [this one](https://www.theregister.com/2025/07/21/replit_saastr_vibe_coding_incident/) — where an AI agent deleted a production
+database — or [this one](https://mashable.com/article/google-gemini-deletes-users-code), where a model apologized for catastrophic
 failure, do little to reassure the skeptics. And yet… the speed. The
 speed is undeniable. It looks like a magic trick. It feels unreal.
 
@@ -59,8 +59,8 @@ no longer a curiosity — it’s a mandate. Make no mistake: anyone who
 reports to executive leadership in 2025 has an OKR that includes “find
 the AI play” by next quarter.
 
-A recent discussion thread — “Forced AI nonsense hysteria happening
-at your company?” — has hundreds of comments from engineers and PMs
+A recent discussion thread — [“Forced AI nonsense hysteria happening
+at your company?”](https://www.teamblind.com/post/forced-ai-nonsense-hysteria-happening-at-your-company-l5amqlml) — has hundreds of comments from engineers and PMs
 alike, all lamenting the leadership scramble to inject AI into anything
 with a pulse. It’s like we’ve all been handed a very shiny hammer, and
 now we’re desperately searching for something — anything — that looks

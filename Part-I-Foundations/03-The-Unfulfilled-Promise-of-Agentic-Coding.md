@@ -22,7 +22,7 @@ asking dumb questions. Job done. You’re an AI-powered organization now.
 Time to go home.
 
 Step too far out of line, and the veneer of a generative culture — the
-kind described in Accelerate as a hallmark of high-performing
+kind described in [Accelerate](https://itrevolution.com/product/accelerate/) as a hallmark of high-performing
 engineering teams — starts to peel away. Instead of learning and
 adapting, teams revert to fear and blame.
 
@@ -31,7 +31,7 @@ artisans. They’ll say the LLMs can’t match their level of rigor. But
 more than that, they don’t trust that you even tried.
 
 The results aren’t helping. Despite the promises of speed, early data
-is mixed. In one study, Cursor-based development came in up to 19%
+is mixed. In one [study](https://newsletter.pragmaticengineer.com/p/cursor-makes-developers-less-effective), Cursor-based development came in up to 19%
 slower on average. Whatever agentic coding is supposed to be, it’s not
 delivering consistent velocity gains.
 
@@ -43,7 +43,7 @@ capture the efficiency gains, as human-AI collaboration introduces new
 workflow dynamics where engineers might choose to optimize for parallel
 activity rather than continuous, synchronous coding.
 
-A 2023 GitClear analysis of over 150 million lines of code
+A [2023 GitClear analysis](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality) of over 150 million lines of code
 suggested that while AI assistance increases code volume, it can
 negatively impact code quality and maintainability, leading to more
 churn and a higher percentage of code being undone or modified shortly

@@ -21,7 +21,7 @@ successfully leveraging AI. The principles of Vibe Engineering are
 designed to help any team cultivate these traits, regardless of their
 current position.
 
-A related study, Rewired and Running Ahead, segmented companies
+A related study, [Rewired and Running Ahead](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/rewired-and-running-ahead-digital-and-ai-leaders-are-leaving-the-rest-behind), segmented companies
 into digital “Leaders” and “Laggards.” Across all sectors, Leaders saw
 2x to 6x higher total shareholder returns than their peers. More
 importantly, the gains are compounding over time — the gap is widening.

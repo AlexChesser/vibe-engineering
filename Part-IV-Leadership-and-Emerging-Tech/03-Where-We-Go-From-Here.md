@@ -9,10 +9,10 @@ and sharing the results.
 
 If you found the thinking here useful, you might also appreciate these
 past explorations into the realities of a modern tech career:
-*   Career Advice Nobody Gave Me: Never Ignore a Recruiter — A
+*   [Career Advice Nobody Gave Me: Never Ignore a Recruiter](https://index.medium.com/career-advice-nobody-gave-me-never-ignore-a-recruiter-4474eac9556) — A
     defense of the cold-call, and a case for why the recruiters who
     interrupt your day are a valuable, misunderstood signal.
-*   Professional Development is a Choice — On the uncomfortable
+*   [Professional Development is a Choice](https://alexchesser.medium.com/professional-development-is-a-choice-e90fb8719259) — On the uncomfortable
     truth that once you’re a professional, nobody is making you do the
     homework anymore — and why that’s both a risk and an opportunity.
 
@@ -54,7 +54,7 @@ covered.
     Engineering lifecycle to solve a real open issue on a
     public-benefit project. Learn the skills, contribute to open
     source, and see the practice in action on my (long dormant) YouTube
-    channel, LGTM: ShipIt.
+    channel, [LGTM: ShipIt](https://www.youtube.com/c/lgtmshipit).
 
 I am always keen to learn from the experiences of fellow practitioners
 and leaders navigating these emergent frontiers. Feel free to connect
