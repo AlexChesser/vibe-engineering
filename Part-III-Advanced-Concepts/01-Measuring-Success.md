@@ -4,7 +4,7 @@ Implementing Vibe Engineering is a strategic investment in your team’s
 productivity and the long-term quality of your codebase. But any
 investment needs to show a return. So, how do we measure the impact of
 something as seemingly intangible as “vibe”? We start with what you
-should already be tracking: the DORA metrics.
+should already be tracking: the [DORA metrics](https://dora.dev/guides/dora-metrics-four-keys/).
 
 Developed by the DevOps Research and Assessment (DORA) team, these four
 key metrics are the gold standard for high-performing technology
@@ -30,7 +30,7 @@ than you’d think: You ask them.
 
 Before you dismiss this as unscientific, let’s consider the
 multi-dimensional nature of developer productivity, as articulated by
-frameworks like SPACE (Satisfaction & well-being, Performance,
+frameworks like [SPACE](https://queue.acm.org/detail.cfm?id=3454124) (Satisfaction & well-being, Performance,
 Activity, Communication & collaboration, and Efficiency & flow). This
 framework argues that no single metric can capture productivity;
 instead, a holistic view encompassing crucial qualitative data is

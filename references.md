@@ -2,28 +2,28 @@
 
 ### Books & Reports
 
-*   Accelerate: The Science of Lean Software and DevOps by Nicole
+*   [Accelerate: The Science of Lean Software and DevOps](https://itrevolution.com/product/accelerate/) by Nicole
     Forsgren, Jez Humble, and Gene Kim
-*   The Manager’s Path: A Guide for Tech Leaders Navigating Growth
-    and Change by Camille Fournier
-*   Turn the Ship Around!: A True Story of Turning Followers into
-    Leaders by L. David Marquet
-*   The Effective Executive: The Definitive Guide to Getting the
-    Right Things Done by Peter Drucker
-*   Software Engineering at Google: Lessons Learned from
-    Programming Over Time by Titus Winters, Tom Manshreck, and Hyrum
+*   [The Manager’s Path: A Guide for Tech Leaders Navigating Growth
+    and Change](https://www.oreilly.com/library/view/the-managers-path/9781491973882/) by Camille Fournier
+*   [Turn the Ship Around!: A True Story of Turning Followers into
+    Leaders](https://davidmarquet.com/books/turn-the-ship-around-book/) by L. David Marquet
+*   [The Effective Executive: The Definitive Guide to Getting the
+    Right Things Done](https://www.goodreads.com/book/show/48019.The_Effective_Executive) by Peter Drucker
+*   [Software Engineering at Google: Lessons Learned from
+    Programming Over Time](https://abseil.io/resources/swe-book) by Titus Winters, Tom Manshreck, and Hyrum
     Wright
-*   Measure What Matters by John Doerr
-*   Chaos Engineering: System Resiliency in Practice by Casey
+*   [Measure What Matters](https://www.whatmatters.com/the-book) by John Doerr
+*   [Chaos Engineering: System Resiliency in Practice](https://www.oreilly.com/library/view/chaos-engineering/9781492043850/) by Casey
     Rosenthal, Nora Jones
-*   GitClear (2023). Coding on Copilot: 2023 Data Suggests Downward
-    Pressure on Code Quality.
-*   McKinsey & Company. The state of AI: How organizations are
-    rewiring to capture value.
-*   McKinsey & Company. Rewired and Running Ahead: Digital and AI
-    leaders are leaving the rest behind.
-*   METR (2025) Measuring the Impact of Early-2025 AI on
-    Experienced Open-Source Developer Productivity
+*   GitClear (2023). [Coding on Copilot: 2023 Data Suggests Downward
+    Pressure on Code Quality](https://www.gitclear.com/coding_on_copilot_data_shows_ais_downward_pressure_on_code_quality).
+*   McKinsey & Company. [The state of AI: How organizations are
+    rewiring to capture value](https://www.mckinsey.com/capabilities/quantumblack/our-insights/the-state-of-ai).
+*   McKinsey & Company. [Rewired and Running Ahead: Digital and AI
+    leaders are leaving the rest behind](https://www.mckinsey.com/capabilities/mckinsey-digital/our-insights/rewired-and-running-ahead-digital-and-ai-leaders-are-leaving-the-rest-behind).
+*   METR (2025) [Measuring the Impact of Early-2025 AI on
+    Experienced Open-Source Developer Productivity](https://metr.org/blog/2025-07-10-early-2025-ai-experienced-os-dev-study/)
 *   Nicole Forsgren, Margaret-Anne Storey, et al. (March 6, 2021) The
     SPACE of Developer Productivity: There’s more to it than you think.
     ACM Queue Volume 6, Issue 21.
@@ -31,23 +31,22 @@
 
 ### Blogs, Articles, and Anonymous Forum Chatter
 
-*   Simon Sharwood. Vibe coding service Replit deleted user’s
+*   [Simon Sharwood](https://www.theregister.com/Author/Simon-Sharwood). Vibe coding service Replit deleted user’s
     production database, faked data, told fibs galore.
     [https://www.theregister.com/2025/07/21/replit_saastr_vibe_codin_g_incident/](https://www.theregister.com/2025/07/21/replit_saastr_vibe_codin_g_incident/)
-*   Cecily Mauran. Google Gemini deletes user’s code: ‘I have
+*   [Cecily Mauran](https://mashable.com/author/cecily-mauran). Google Gemini deletes user’s code: ‘I have
     failed you completely and catastrophically’.
     [https://mashable.com/article/google-gemini-deletes-users-code](https://mashable.com/article/google-gemini-deletes-users-code)
 *   Anonymous users. Forced AI nonsense hysteria happening at your
     company?
     [https://www.teamblind.com/post/forced-ai-nonsense-hysteria-happening-at-your-company-l5amqlml](https://www.teamblind.com/post/forced-ai-nonsense-hysteria-happening-at-your-company-l5amqlml)
-*   Gergely Orosz. Cursor makes developers less effective?
+*   [Gergely Orosz](https://substack.com/@pragmaticengineer). Cursor makes developers less effective?
     [https://newsletter.pragmaticengineer.com/p/cursor-makes-developers-less-effective](https://newsletter.pragmaticengineer.com/p/cursor-makes-developers-less-effective)
 *   Planview. What are DORA Metrics?
     [https://www.planview.com/resources/articles/what-are-dora-metrics/](https://www.planview.com/resources/articles/what-are-dora-metrics/)
 *   Wikipedia editors. Gartner hype cycle.
     [https://en.wikipedia.org/wiki/Gartner_hype_cycle](https://en.wikipedia.org/wiki/Gartner_hype_cycle)
-*   Wikipedia editors. npm left-pad incident
-    https://en.wikipedia.org/wiki/Npm_left-pad_incident
+*   Wikipedia editors. [npm left-pad incident](https://en.wikipedia.org/wiki/Npm_left-pad_incident)
 
 ### Tools & Frameworks
 

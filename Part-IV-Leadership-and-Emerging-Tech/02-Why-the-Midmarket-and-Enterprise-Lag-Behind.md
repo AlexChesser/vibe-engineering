@@ -6,8 +6,8 @@ systems run deep. Decision rights are distributed. Procurement takes
 quarters. Risk tolerance is low. Accountability frameworks reward
 predictability over experimentation.
 
-This resistance is not merely cultural; it is structural. In The
-Manager’s Path, Camille Fournier describes the immense coordination
+This resistance is not merely cultural; it is structural. In [The
+Manager’s Path](https://www.oreilly.com/library/view/the-managers-path/9781491973882/), Camille Fournier describes the immense coordination
 overhead required to enact technical change in established
 organizations. Introducing a technology as foundational as an AI coding
 partner isn’t a tooling decision — it’s a systems architecture decision
@@ -16,9 +16,9 @@ accountability. Without a clear mandate and a strategy for managing
 this complexity, a bottom-up adoption of agentic coding will invariably
 collide with the organization’s immune system.
 
-Experienced engineers have seen this movie before. We know the hype
-cycle. We know how bad things can get, like the time 11 lines of
-javascript shut down deployments for about half the internet. Resisting
+Experienced engineers have seen this movie before. We know the [hype
+cycle](https://en.wikipedia.org/wiki/Gartner_hype_cycle). We know how bad things can get, like the time [11 lines of
+javascript](https://en.wikipedia.org/wiki/Npm_left-pad_incident) shut down deployments for about half the internet. Resisting
 hype is a core function of the enterprise engineer’s job.
 
 We’re allowed to get excited by shiny new tools on our own time. But on
@@ -67,7 +67,7 @@ Shifting the working model of teams isn’t something that can plausibly
 be driven from the bottom up. In practice, it requires time, trust, and
 top-down air cover.
 
-In Turn the Ship Around, David Marquet argues that great
+In [Turn the Ship Around](https://davidmarquet.com/books/turn-the-ship-around-book/), David Marquet argues that great
 organizations shift from a leader–follower model to a leader–leader
 model. Authority is redistributed, not abandoned. This doesn’t mean
 chaos — it means clarity, intent, and shared ownership.

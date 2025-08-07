@@ -66,7 +66,7 @@ practitioners and leaders as we navigate these emergent frontiers —
 feel free to connect if you’re exploring similar advanced strategies.
 
 To continue the conversation or connect on these topics, you can find
-me on: Threads, Bluesky or, LinkedIn.
+me on: [Threads](https://www.threads.com/@alexc04), [Bluesky](https://bsky.app/profile/achesser.bsky.social) or, [LinkedIn](https://www.linkedin.com/in/alex-chesser/).
 
 The future of software development involves deeply integrated AI
 collaborators. By treating communication as code and engineering the
